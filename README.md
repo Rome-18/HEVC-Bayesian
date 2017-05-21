@@ -10,7 +10,7 @@ make release
 Then the execution files will be generated in ```bin/```
 
 # Execution
-The configuration information is defined in configuration files, which are in ```cfg/```. To use HEVC, the command is like
+The detailed configuration information is defined in configuration files, which are in ```cfg/```. To encode the video data, the command is like
 ```
 cd bin/
 ./TAppEncoderStatic -c ../cfg/encoder_randomaccess_main.cfg -c ../cfg/per-sequence/RaceHorses.cfg
