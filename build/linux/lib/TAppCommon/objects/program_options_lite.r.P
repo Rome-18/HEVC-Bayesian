@@ -1,0 +1,5 @@
+./objects/program_options_lite.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp \
+  ../../../../source/Lib/TAppCommon/program_options_lite.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TAppCommon/../../../../source/Lib/TAppCommon/program_options_lite.cpp :
+  ../../../../source/Lib/TAppCommon/program_options_lite.h :

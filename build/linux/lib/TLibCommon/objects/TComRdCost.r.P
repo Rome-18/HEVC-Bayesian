@@ -1,0 +1,29 @@
+./objects/TComRdCost.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.cpp \
+  ../../../../source/Lib/TLibCommon/TComRom.h \
+  ../../../../source/Lib/TLibCommon/CommonDef.h \
+  ../../../../source/Lib/TLibCommon/TypeDef.h \
+  ../../../../source/Lib/TLibCommon/TComRdCost.h \
+  ../../../../source/Lib/TLibCommon/TComPattern.h \
+  ../../../../source/Lib/TLibCommon/TComMv.h \
+  ../../../../source/Lib/TLibCommon/TComSlice.h \
+  ../../../../source/Lib/TLibCommon/TComList.h \
+  ../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+  ../../../../source/Lib/TLibCommon/TComRectangle.h \
+  ../../../../source/Lib/TLibCommon/ContextTables.h \
+  ../../../../source/Lib/TLibCommon/Debug.h \
+  ../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRdCost.cpp :
+  ../../../../source/Lib/TLibCommon/TComRom.h :
+  ../../../../source/Lib/TLibCommon/CommonDef.h :
+  ../../../../source/Lib/TLibCommon/TypeDef.h :
+  ../../../../source/Lib/TLibCommon/TComRdCost.h :
+  ../../../../source/Lib/TLibCommon/TComPattern.h :
+  ../../../../source/Lib/TLibCommon/TComMv.h :
+  ../../../../source/Lib/TLibCommon/TComSlice.h :
+  ../../../../source/Lib/TLibCommon/TComList.h :
+  ../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+  ../../../../source/Lib/TLibCommon/TComRectangle.h :
+  ../../../../source/Lib/TLibCommon/ContextTables.h :
+  ../../../../source/Lib/TLibCommon/Debug.h :
+  ../../../../source/Lib/TLibCommon/TComRdCostWeightPrediction.h :

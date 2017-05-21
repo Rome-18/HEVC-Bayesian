@@ -1,0 +1,21 @@
+./objects/AnnexBread.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/AnnexBread.cpp \
+  ../../../../source/Lib/TLibDecoder/AnnexBread.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/AnnexBread.cpp :
+  ../../../../source/Lib/TLibDecoder/AnnexBread.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h :

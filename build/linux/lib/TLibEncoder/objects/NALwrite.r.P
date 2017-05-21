@@ -1,0 +1,13 @@
+./objects/NALwrite.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+  ../../../../source/Lib/TLibEncoder/NALwrite.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+  ../../../../source/Lib/TLibEncoder/NALwrite.h :

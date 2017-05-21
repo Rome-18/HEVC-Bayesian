@@ -1,0 +1,19 @@
+./objects/TComInterpolationFilter.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComInterpolationFilter.cpp \
+  ../../../../source/Lib/TLibCommon/TComRom.h \
+  ../../../../source/Lib/TLibCommon/CommonDef.h \
+  ../../../../source/Lib/TLibCommon/TypeDef.h \
+  ../../../../source/Lib/TLibCommon/TComInterpolationFilter.h \
+  ../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+  ../../../../source/Lib/TLibCommon/TComRectangle.h \
+  ../../../../source/Lib/TLibCommon/ContextTables.h \
+  ../../../../source/Lib/TLibCommon/Debug.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComInterpolationFilter.cpp :
+  ../../../../source/Lib/TLibCommon/TComRom.h :
+  ../../../../source/Lib/TLibCommon/CommonDef.h :
+  ../../../../source/Lib/TLibCommon/TypeDef.h :
+  ../../../../source/Lib/TLibCommon/TComInterpolationFilter.h :
+  ../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+  ../../../../source/Lib/TLibCommon/TComRectangle.h :
+  ../../../../source/Lib/TLibCommon/ContextTables.h :
+  ../../../../source/Lib/TLibCommon/Debug.h :

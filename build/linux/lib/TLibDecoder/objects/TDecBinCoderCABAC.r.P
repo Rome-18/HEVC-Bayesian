@@ -1,0 +1,21 @@
+./objects/TDecBinCoderCABAC.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/TDecBinCoderCABAC.cpp \
+  ../../../../source/Lib/TLibDecoder/TDecBinCoderCABAC.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComCABACTables.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+  ../../../../source/Lib/TLibDecoder/TDecBinCoder.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/ContextModel.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/Debug.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/TDecBinCoderCABAC.cpp :
+  ../../../../source/Lib/TLibDecoder/TDecBinCoderCABAC.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComCABACTables.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+  ../../../../source/Lib/TLibDecoder/TDecBinCoder.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/ContextModel.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/Debug.h :

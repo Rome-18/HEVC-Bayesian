@@ -1,0 +1,27 @@
+./objects/TVideoIOYuv.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibVideoIO/TVideoIOYuv.cpp \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComRom.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/CommonDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TypeDef.h \
+  ../../../../source/Lib/TLibVideoIO/TVideoIOYuv.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComPicYuv.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComRectangle.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/ContextTables.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/Debug.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/SEI.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/libmd5/MD5.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/libmd5/libmd5.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibVideoIO/TVideoIOYuv.cpp :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComRom.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/CommonDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TypeDef.h :
+  ../../../../source/Lib/TLibVideoIO/TVideoIOYuv.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComPicYuv.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/TComRectangle.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/ContextTables.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/Debug.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/TLibCommon/SEI.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/libmd5/MD5.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibVideoIO/../../../../source/Lib/libmd5/libmd5.h :

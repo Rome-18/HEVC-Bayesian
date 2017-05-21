@@ -1,0 +1,7 @@
+./objects/AnnexBread.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/AnnexBread.cpp \
+  ../../../../source/Lib/TLibDecoder/AnnexBread.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/AnnexBread.cpp :
+  ../../../../source/Lib/TLibDecoder/AnnexBread.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :

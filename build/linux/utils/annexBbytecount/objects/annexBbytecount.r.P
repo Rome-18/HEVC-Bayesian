@@ -1,0 +1,7 @@
+./objects/annexBbytecount.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h :

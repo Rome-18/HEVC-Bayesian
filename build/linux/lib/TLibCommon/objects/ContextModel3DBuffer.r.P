@@ -1,0 +1,13 @@
+./objects/ContextModel3DBuffer.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/ContextModel3DBuffer.cpp \
+  ../../../../source/Lib/TLibCommon/ContextModel3DBuffer.h \
+  ../../../../source/Lib/TLibCommon/CommonDef.h \
+  ../../../../source/Lib/TLibCommon/TypeDef.h \
+  ../../../../source/Lib/TLibCommon/ContextModel.h \
+  ../../../../source/Lib/TLibCommon/TComRom.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/ContextModel3DBuffer.cpp :
+  ../../../../source/Lib/TLibCommon/ContextModel3DBuffer.h :
+  ../../../../source/Lib/TLibCommon/CommonDef.h :
+  ../../../../source/Lib/TLibCommon/TypeDef.h :
+  ../../../../source/Lib/TLibCommon/ContextModel.h :
+  ../../../../source/Lib/TLibCommon/TComRom.h :

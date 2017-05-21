@@ -1,0 +1,11 @@
+./objects/TComCABACTables.r.o: \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.cpp \
+  ../../../../source/Lib/TLibCommon/TComCABACTables.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+  ../../../../source/Lib/TLibCommon/TypeDef.h \
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComCABACTables.cpp :
+  ../../../../source/Lib/TLibCommon/TComCABACTables.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+  ../../../../source/Lib/TLibCommon/TypeDef.h :
+  /Users/ApplePie/Documents/Code/C++/Project/HEVC/HEVC-Bayesian/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComRom.h :
